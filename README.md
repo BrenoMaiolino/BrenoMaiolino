@@ -1,4 +1,4 @@
-![Breno MAiolino](https://user-images.githubusercontent.com/90532039/156902968-c01c3f0b-0422-4242-bd78-8587d7de5e9d.gif)
+
 
 
 ### Opa! Eu sou o Breno Maiolino 👀👨‍💻

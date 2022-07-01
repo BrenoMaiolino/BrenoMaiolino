@@ -7,6 +7,7 @@
 [![Twith](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/maiolino_c)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)</br>
 - maiolinobreno@gmail.com
+-Eletrônica e Manutenção em Áudio - Omid International audio academy
 
 ## Tecnologias que estou Estudando 👇📖
 

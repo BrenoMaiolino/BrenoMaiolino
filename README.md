@@ -4,11 +4,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maiolino_b/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-maiolino-5b1b15218/)
-[![Twith](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/maiolino_c)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)</br>
 - maiolinobreno@gmail.com
 
-## Eletrônica e Manutenção em Áudio - Omid International audio academy
+##
 
 ## Tecnologias que estou Estudando 👇📖
 
@@ -25,12 +24,6 @@
     
 
 </div>
-
-## Máquina de Trabalho / Estudos 💻🔎
-
-<div style="display: inline_block"></br>
-    <img align="center" alt="Inteli5" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-    <img align="center" alt="GTX1650" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div></br>
 
 - “Com vontade é possível fazer tudo. Eu sou o que eu quero ser.”

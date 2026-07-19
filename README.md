@@ -1,6 +1,6 @@
 ![Breno MAiolino(2)](https://user-images.githubusercontent.com/90532039/156929386-2bad37f2-7100-41c9-85e1-69afedc81cb3.gif)
 
-### Opa! Eu sou o Breno Maiolino 👀👨‍💻
+### Eu sou o Breno Maiolino, desenvolvedor Flutter em formação 🚀👨‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maiolino_b/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-maiolino-5b1b15218/)
@@ -10,6 +10,7 @@
 ##
 
 ## Tecnologias que estou Estudando 👇📖
+
 
 <div style="display: inline_block"></br>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

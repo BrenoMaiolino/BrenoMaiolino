@@ -1,4 +1,4 @@
-![Breno MAiolino(2)](https://github.com/BrenoMaiolino/BrenoMaiolino/issues/1#issue-1160468701)
+![Breno MAiolino(2)](https://github.com/BrenoMaiolino/BrenoMaiolino/issues/2#issue-4933969151)
 
 ### Eu sou o Breno Maiolino, desenvolvedor Flutter em formação 🚀👨‍💻
 Videomaker em transição para o desenvolvimento de software, com foco em desenvolvimento mobile. Estou construindo uma base sólida em programação e me preparando para desenvolver aplicativos modernos com Flutter e Dart. Este repositório reúne minha evolução como desenvolvedor, desde os primeiros estudos até projetos completos.
